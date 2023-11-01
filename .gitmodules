@@ -1,0 +1,3 @@
+[submodule "rts-nxt"]
+	path = rts-nxt
+	url = git@github.com:rontap/rts-nxt.git
