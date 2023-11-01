@@ -1,3 +1,15 @@
 [submodule "rts-nxt"]
 	path = rts-nxt
 	url = git@github.com:rontap/rts-nxt.git
+[submodule "games/nomercy"]
+	path = games/nomercy
+	url = git@github.com:rontap/nomercy.git
+[submodule "games/colorgame"]
+	path = games/colorgame
+	url = git@github.com:rontap/colorgame.git
+[submodule "elte/elteik-web"]
+	path = elte/elteik-web
+	url = git@github.com:rontap/elteik-web.git
+[submodule "elte/thesis"]
+	path = elte/thesis
+	url = git@github.com:rontap/thesis.git
